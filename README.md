@@ -1,16 +1,23 @@
-## Hi there 👋
+## hi 👾
 
-<!--
-**cimientos-py/cimientos-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cimientos**
 
-Here are some ideas to get you started:
+## 🔭 currently jamming on:
+- 💻 **cimientos checker**: crafting tools that empower discord bot management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## learning:
+- 🐍 python
+- 🌐 discord api
+- 📱 web development
+
+## 💻 skills & tools:
+- **languages**: python, javascript
+- **frameworks**: discord.py, flask
+- **tools**: git, vs code, postman
+
+## 📫 hit me up:
+- **github**: [github](https://github.com/cimientos-py)
+- **discord**: [discord](https://discord.com/users/1269718787062501406)
+
+## 🧑‍💻 fun fact:
+im not virgin. ⚡
